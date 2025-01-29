@@ -1,4 +1,4 @@
-# NPC-GPT-Plugin
+# NPC-GPT-Plugin [RPG MAKER MZ]
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 NPC-GPT is a plugin for RPG Maker MZ that enables communication with the GPT-4 model to create dynamic and interactive conversation with NPCs in your game.
